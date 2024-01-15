@@ -1,5 +1,5 @@
 <h1 align="center">QR Code Checker 🚀</h1> 
-<h2 align="center">QR Code checker with HTML5. 🎈</h2>
+<h2 align="center">QR Code checker with HTML5 and JS. 🎈</h2>
 
 - 🎀 Its a QR Code Checker.
 - 🎟️ This application changes the QR code once every 60 seconds. You can be directed to the page you want by entering the code in the QR code.
